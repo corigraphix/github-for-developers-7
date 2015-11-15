@@ -1,4 +1,6 @@
-Hello my name is Cori
 
-Name: Cori
-Favorite Food: Mexican
+
+    Cori Puffer
+    Orlando
+    Mexican
+    Soccer
